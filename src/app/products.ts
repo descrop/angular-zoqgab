@@ -30,6 +30,12 @@ export const products = [
     price: 14000,
     description: 'Este es un excelente telefono, con una excelente camara.',
   },
+  {
+    id: 4,
+    name: 'Samsung S22 +',
+    price: 14000,
+    description: 'Tendrias que estar loco para no comprarlo',
+  }
 ];
 
 /*
